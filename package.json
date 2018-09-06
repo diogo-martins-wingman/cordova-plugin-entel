@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-entel",
+  "version": "0.0.1",
+  "description": "A sample for a new cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-entel",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogo-martins-wingman/cordova-plugin-entel.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "hello",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "diogo-martins-wingman",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/diogo-martins-wingman/cordova-plugin-entel/issues"
+  },
+  "homepage": "https://github.com/diogo-martins-wingman/cordova-plugin-entel"
+}
