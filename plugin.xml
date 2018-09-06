@@ -19,7 +19,7 @@
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="Entel">
-        <param name="android-package" value="com.example.plugin.Entel"/>
+        <param name="android-package" value="pt.wingman.entel.Entel"/>
       </feature>
     </config-file>
 
